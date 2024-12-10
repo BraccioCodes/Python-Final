@@ -30,4 +30,3 @@ These variables will be analyzed to understand trends and relationships between 
 - **Pandas**: For data cleaning, transformation, and analysis
 - **NumPy**: For numerical operations
 - **Matplotlib & Seaborn**: For data visualization
-- **Jupyter Notebooks**: For project documentation and interactive analysis
