@@ -37,9 +37,12 @@ These variables will be analyzed to understand trends and relationships between 
 
 While the average work life balance rating doesn't really change much between region, there is a very slight difference between each work location, with Onsite jobs being on average the work location with the lowest average work life balance rating (2.95).
 
+
 ![Bar2](bar2.png)
 
 Stress level remains kind of the same between all the industries in the dataset, although the education and the healthcare industries both have a higher average stress level reported between employees (2.05, 2.04, respectively).
+
+
 
 **Correlation Analysis**
 
