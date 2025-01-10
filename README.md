@@ -43,7 +43,7 @@ Stress level remains kind of the same between all the industries in the dataset,
 
 **Correlation Analysis**
 
-![scatter](scatter.png)
+![lineplot](lineplot.png)
 
 To see how weekly worked hours affect stress levels among employees, I used this lineplot. There's clearly no correlation between the two variables, as there isn't a trend happening when weekly worked hours increase.
 
