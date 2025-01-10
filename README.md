@@ -11,8 +11,8 @@ The dataset used in this project is sourced from Kaggle and can be accessed [her
 - **Age**
 - **Gender**
 - **Job role**
-- **Work-life balance**
-- **Stress levels**
+- **Work-life balance (1-5)**
+- **Stress levels (1-3)**
 - **Region**
 
 These variables will be analyzed to understand trends and relationships between work conditions and mental health outcomes.
@@ -31,4 +31,20 @@ These variables will be analyzed to understand trends and relationships between 
 
 ## EDA (Exploratory Data Analysis)
 
+**Descriptive Statistics**
 
+![Bar1](bar1.png)
+
+While the average work life balance rating doesn't really change much between region, there is a very slight difference between each work location, with Onsite jobs being on average the work location with the lowest average work life balance rating (2.95).
+
+![Bar2](bar2.png)
+
+Stress level remains kind of the same between all the industries in the dataset, although the education and the healthcare industries both have a higher average stress level reported between employees (2.05, 2.04, respectively).
+
+**Correlation Analysis**
+
+![scatter](scatter.png)
+
+To see how weekly worked hours affect stress levels among employees, I used this lineplot. There's clearly no correlation between the two variables, as there isn't a trend happening when weekly worked hours increase.
+
+## How to run the code
